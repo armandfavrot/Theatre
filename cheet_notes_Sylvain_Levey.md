@@ -123,3 +123,59 @@ x oui, et ?
 
 
 # texte 2 
+
+x & x & x  t'as dis quoi là toi  -  qui moi ?  -  non lui
+
+M  Moi ?
+
+x  oui toi, t'as dis quoi ?
+
+M  Moi rien, j'ai rien dit
+
+----------------------------------------------
+
+x *5  x5  .. en fait j'avais juste ententu ier mais maintenant que tu le dis il a. tu as dis fais chier.
+
+M  mais j'ai pas dit
+
+x & x  si tu as dit  -  t'as dis quoi ? répète le. t'as dis quoi ?
+
+M  J'ai rien dit
+
+x *4  [en gros 'frape - non toi - non toi']  -  si c'est toi qui décide
+
+M  aie
+
+x *4  x4  si c'est toi qui décide 
+
+M  Aie Aie
+
+x & x  on dit pas aie. qu'est ce qu'on dit ?  -  alors qu'est ce qu'on dit ?
+
+M  merci beaucoup monsieur
+
+-----------------------------------------------
+
+[environ 10 répliques plus tard]
+
+x  Dis lui ce qu'il faut dire. Je parle trop c'est fatigant.
+
+M  Aie
+
+x & x  on dit fait chier  -  dis le sinon
+
+M  fais chier
+
+x  redis ça pour voir
+
+M  fais chier
+
+x  plus fort pour voir  
+
+M  fais chier
+
+x  .. avec tout ce qu'on a fait pour toi
+
+M  aie 
+
+x  cache toi tu as raison. on ne veut plus te voir.
